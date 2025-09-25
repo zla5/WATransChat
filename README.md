@@ -1,45 +1,45 @@
 # WATransChat
 
-这款 **WATransChat** 专为 **跨境电商客服** 打造的 **WhatsApp浏览器翻译扩展**，能够大幅提升您的沟通效率与客户满意度。  
+**WATransChat** is a **WhatsApp browser translation extension** designed for **cross-border e-commerce customer service**, significantly boosting communication efficiency and customer satisfaction.
 
-它可 **自动识别客户的国家、语言、货币和当地时间**，让客服快速掌握客户背景，做到更专业、更贴心的服务。  
-
----
-
-## ✨ 功能亮点
-
-- 🌍 **自动识别客户背景**：国家、语言、货币、当地时间一目了然  
-- 🔄 **4 大翻译引擎**：支持 **200+ 种语言**，并且 **无字数用量限制**  
-- 💬 **实时翻译**：自动翻译 **发送/接收** 信息，实现真正的 **无障碍沟通**  
-- ⚡ **快捷操作**：
-  - 快速与陌生号码开启聊天  
-  - 一键插入常用短语  
-  - 保存客户语言偏好  
-- 🖥️ **无缝集成**：与 WhatsApp Web 完美融合，无需切换窗口  
-- 📱 **响应式界面**：单人客服 & 跨境团队均可轻松使用  
+It **automatically detects the customer's country, language, currency, and local time**, enabling customer service teams to quickly understand customer backgrounds for more professional and personalized service.
 
 ---
 
-## 📥 安装方法
+## ✨ Key Features
 
-### 360 浏览器 / 360 极速浏览器
-1. 下载本仓库中的 **`WATransChat.crx`** 文件  
-2. 拖动至 360 浏览器 / 极速浏览器 中并点击安装  
-3. 打开 [WhatsApp Web](https://web.whatsapp.com/)，插件会自动加载并显示自定义界面  
+- 🌍 **Automatic Customer Background Detection**: Displays country, language, currency, and local time at a glance  
+- 🔄 **4 Major Translation Engines**: Supports **200+ languages** with **no word limit restrictions**  
+- 💬 **Real-Time Translation**: Automatically translates **sent/received messages** for seamless communication  
+- ⚡ **Quick Actions**:  
+  - Start chats with unknown numbers instantly  
+  - One-click insertion of frequently used phrases  
+  - Save customer language preferences  
+- 🖥️ **Seamless Integration**: Perfectly integrates with WhatsApp Web, no need to switch windows  
+- 📱 **Responsive Interface**: Easy to use for solo customer service agents and cross-border teams  
 
 ---
 
-### Chrome 浏览器
+## 📥 Installation Instructions
 
-1. 打开扩展程序页面：在地址栏输入 `chrome://extensions/` 按下回车键 
-2. 启用右上角 **开发者模式** 并刷新页面  
-   > 否则等下安装会提示 “程序包无效” 无法安装  
-3. 下载本仓库中的 **`WATransChat.crx`** 文件    
-4. 将 **`WATransChat.crx` 文件拖动到 Chrome** 窗口完成安装  
-   - 安装成功后可能提示 “该扩展程序未列在 Chrome 应用商店中，并可能是在您不知情的情况下添加的”
-   - 解决办法：点击开始菜单，找到**命令提示符**在它上面右击，选择以管理员身份运行 **命令提示符** 并执行：     
-   ```bash
-   reg add HKLM\SOFTWARE\Policies\Google\Chrome\ExtensionInstallAllowlist /v 99999 /t reg_sz /d njbbjpfgdabaclkcpcoiphbpjaoiaoah /f
-5. 安装后可能显示 **“WATransChat已关闭”**  
-   - 点击后面 `⋮` 菜单，选择 **保留此扩展程序**  
+### 360 Browser / 360 Extreme Browser
+1. Download the **`WATransChat.crx`** file from this repository  
+2. Drag it into 360 Browser / Extreme Browser and click to install  
+3. Open [WhatsApp Web](https://web.whatsapp.com/), and the plugin will automatically load with a custom interface  
 
+---
+
+### Chrome Browser
+
+1. Open the Extensions page: Enter `chrome://extensions/` in the address bar and press Enter  
+2. Enable **Developer Mode** in the top right and refresh the page  
+   > Otherwise, installation may fail with a “Package is invalid” error  
+3. Download the **`WATransChat.crx`** file from this repository  
+4. Drag the **`WATransChat.crx` file into the Chrome window** to complete installation  
+   - After installation, you may see a warning: “This extension is not listed in the Chrome Web Store and may have been added without your knowledge”  
+   - Solution: Open the Start menu, locate **Command Prompt**, right-click and select **Run as administrator**, then execute:  
+     ```bash
+     reg add HKLM\SOFTWARE\Policies\Google\Chrome\ExtensionInstallAllowlist /v 99999 /t reg_sz /d njbbjpfgdabaclkcpcoiphbpjaoiaoah /f
+     ```
+5. If **“WATransChat is disabled”** appears after installation:  
+   - Click the `⋮` menu and select **Keep this extension**
