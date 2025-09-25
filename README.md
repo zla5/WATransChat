@@ -1,3 +1,6 @@
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![中文](https://img.shields.io/badge/lang-中文-red.svg)](README.zh-CN.md)
+
 # WATransChat
 
 **WATransChat** is a **WhatsApp browser translation extension** designed for **cross-border e-commerce customer service**, significantly boosting communication efficiency and customer satisfaction.
