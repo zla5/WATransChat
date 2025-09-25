@@ -42,7 +42,7 @@ It **automatically detects the customer's country, language, currency, and local
    - After installation, you may see a warning: “This extension is not listed in the Chrome Web Store and may have been added without your knowledge”  
    - Solution: Open the Start menu, locate **Command Prompt**, right-click and select **Run as administrator**, then execute:  
      ```bash
-     reg add HKLM\SOFTWARE\Policies\Google\Chrome\ExtensionInstallAllowlist /v 99999 /t reg_sz /d njbbjpfgdabaclkcpcoiphbpjaoiaoah /f
+     reg add HKLM\SOFTWARE\Policies\Google\Chrome\ExtensionInstallAllowlist /v 99999 /t reg_sz /d fnonangpigkmcnbcjgamjpfopaikigjb /f
      ```
 5. If **“WATransChat is disabled”** appears after installation:  
    - Click the `⋮` menu and select **Keep this extension**
