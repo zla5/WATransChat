@@ -42,4 +42,4 @@
 6. 若出现限制，点击开始菜单，找到**命令提示符**在它上面右击，选择以管理员身份运行 **命令提示符** 并执行：  
 
    ```bash
-   reg add HKLM\SOFTWARE\Policies\Google\Chrome\ExtensionInstallAllowlist /v 99999 /t reg_sz /d pbkhaffoljcmmdggahffpfdadfndkbdc /f
+   reg add HKLM\SOFTWARE\Policies\Google\Chrome\ExtensionInstallAllowlist /v 99999 /t reg_sz /d njbbjpfgdabaclkcpcoiphbpjaoiaoah /f
