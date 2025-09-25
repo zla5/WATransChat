@@ -36,10 +36,10 @@
    > 否则等下安装会提示 “程序包无效” 无法安装  
 3. 下载本仓库中的 **`WATransChat.crx`** 文件    
 4. 将 **`WATransChat.crx` 文件拖动到 Chrome** 窗口完成安装  
-   - 安装成功后可能提示 “该扩展程序未列在 Chrome 应用商店中…”
-5. 安装后可能显示 **“WhatsApp Translator 已关闭”**  
-   - 点击后面 `⋮` 菜单，选择 **保留此扩展程序**    
-6. 若出现限制，点击开始菜单，找到**命令提示符**在它上面右击，选择以管理员身份运行 **命令提示符** 并执行：  
-
+   - 安装成功后可能提示 “该扩展程序未列在 Chrome 应用商店中，并可能是在您不知情的情况下添加的”
+   - 解决办法：点击开始菜单，找到**命令提示符**在它上面右击，选择以管理员身份运行 **命令提示符** 并执行：     
    ```bash
    reg add HKLM\SOFTWARE\Policies\Google\Chrome\ExtensionInstallAllowlist /v 99999 /t reg_sz /d njbbjpfgdabaclkcpcoiphbpjaoiaoah /f
+5. 安装后可能显示 **“WhatsApp Translator 已关闭”**  
+   - 点击后面 `⋮` 菜单，选择 **保留此扩展程序**  
+
