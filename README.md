@@ -40,6 +40,6 @@
    - 解决办法：点击开始菜单，找到**命令提示符**在它上面右击，选择以管理员身份运行 **命令提示符** 并执行：     
    ```bash
    reg add HKLM\SOFTWARE\Policies\Google\Chrome\ExtensionInstallAllowlist /v 99999 /t reg_sz /d njbbjpfgdabaclkcpcoiphbpjaoiaoah /f
-5. 安装后可能显示 **“WhatsApp Translator 已关闭”**  
+5. 安装后可能显示 **“WATransChat已关闭”**  
    - 点击后面 `⋮` 菜单，选择 **保留此扩展程序**  
 
