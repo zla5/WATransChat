@@ -39,7 +39,7 @@
    - 安装成功后可能提示 “该扩展程序未列在 Chrome 应用商店中…”
 5. 安装后可能显示 **“WhatsApp Translator 已关闭”**  
    - 点击后面 `⋮` 菜单，选择 **保留此扩展程序**    
-6. 若出现限制，需以管理员身份打开 **cmd / PowerShell** 并执行：  
+6. 若出现限制，点击开始菜单，找到**命令提示符**在它上面右击，选择以管理员身份运行 **命令提示符** 并执行：  
 
    ```bash
    reg add HKLM\SOFTWARE\Policies\Google\Chrome\ExtensionInstallAllowlist /v 99999 /t reg_sz /d pbkhaffoljcmmdggahffpfdadfndkbdc /f
