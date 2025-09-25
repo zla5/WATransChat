@@ -1,3 +1,6 @@
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![中文](https://img.shields.io/badge/lang-中文-red.svg)](README.zh-CN.md)
+
 # WATransChat
 
 这款 **WATransChat** 专为 **跨境电商客服** 打造的 **WhatsApp浏览器翻译扩展**，能够大幅提升您的沟通效率与客户满意度。  
