@@ -43,6 +43,6 @@
    - 点击后面 `⋮` 菜单，选择 **保留此扩展程序**
    - 然后在下方找到WATransChat应用，点击右边的启用按钮，这个按钮是灰色点击不了，显示该扩展程序未列在 Chrome 应用商店中，并可能是在您不知情的情况下添加的。
    - 解决办法：查看你的chrome版本，点击浏览器菜单-帮助-关于Google Chrome，
-   - 如果你的版本是140开始的，请找到你的Chrome图标，右击打开文件所在位置，在打开的文件夹地址栏中输入 **`CMD`** 按下回车键，弹出黑色的 **命令提示符** 窗口，粘贴以下```chrome --disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled```命令按下回车按钮。
+   - 如果你的版本是140开始的，请找到你的Chrome图标，右击打开文件所在位置，在打开的文件夹地址栏中输入 **`CMD`** 按下回车键，弹出黑色的 **命令提示符** 窗口，粘贴以下     ```bash chrome --disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled```命令按下回车按钮。
    
 
