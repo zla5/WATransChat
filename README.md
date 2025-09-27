@@ -24,7 +24,37 @@ It **automatically detects the customer's country, language, currency, and local
 ---
 
 ## 📥 Installation Instructions
+### How to log in using the Android app by scanning a QR code
 
+1. **Open split-screen mode on your phone**
+* Go to the **multitasking interface** on your phone and select **split screen**.
+* Place the Android app **WhatsApp web QR code interface** on the top half of the screen.
+
+2. **Take a screenshot of the QR code**
+
+* As soon as the QR code page appears on the top half of the screen, **immediately take a screenshot** of the QR code.
+
+3. **Send the QR code to another device**
+
+* Stay in split-screen mode.
+* Open WeChat, QQ, or another transfer tool on the bottom half of the screen and send the screenshot of the QR code to another phone or computer.
+
+4. **Open the native WhatsApp QR code scanning feature**
+
+* In split-screen mode, switch the bottom half of the screen to **native WhatsApp**.
+* Tap the **three-dot menu in the top right corner → Settings → QR code icon in the top right corner → Scan QR code**
+
+5. **Scan the QR Code**
+
+* Use the native WhatsApp QR code scanning feature to **scan a screenshot of the QR code you just uploaded on another device or computer**.
+
+6. **Notes**
+
+* **Do not exit split-screen mode**, otherwise the QR code will refresh and become invalid.
+* Ensure that the screenshot transfer and QR code scanning are completed within 20 seconds.
+
+---
+  
 ### 360 Browser / 360 Extreme Browser
 1. Download the **`WATransChat.crx`** file from this repository  
 2. Drag it into 360 Browser / Extreme Browser and click to install  
