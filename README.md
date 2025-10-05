@@ -23,6 +23,10 @@ It can **automatically detect the customer’s country, language, currency, and 
 * 📱 **Responsive design**: Perfect for both solo agents and cross-border teams
 
 ---
+![](https://github.com/zla5/WATransChat/blob/66312851eb810476db44f1119ae7f08ef47c5307/QQ%E6%88%AA%E5%9B%BE20251005200954.jpg
+)
+![](https://github.com/zla5/WATransChat/blob/66312851eb810476db44f1119ae7f08ef47c5307/Screenshot_2025-10-05-21-05-54-620_com.example.wa.jpg
+)
 
 # Installation Guide
 
