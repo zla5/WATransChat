@@ -19,6 +19,7 @@ Usage of our Services. When you use our Services, we may collect information abo
 Information We Receive from Third Parties.
 Third-Party Accounts. If you choose to link our Services to a third-party account, we will receive information about that account, such as your authentication token from the third-party account, to authorize linking. If you wish to limit the information available to us, you should visit the
 Privacy settings of your third-party accounts to learn about your options. Third-Party Partners. We may also receive publicly available information about you from our third-party partners and combine it with data that we have about you.
+
 2. HOW WE USE INFORMATION
 We use the information we collect in various ways, including to:
 
@@ -46,6 +47,7 @@ Analytics. We use analytics providers such as Google Analytics, Mixpanel. Google
 Business Transfers. Information may be disclosed and otherwise transferred to any potential acquirer, successor, or the assignee as part of any proposed merger, acquisition, debt financing, sale of assets, or similar transaction, or in the event of insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets.
 As Required By Law and Similar Disclosures. We may also share information to (i) satisfy any applicable law, regulation, legal process, or governmental request; (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof; (iii) detect, prevent, or otherwise address fraud, security, or technical issues; (iv) respond to your requests; or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
 With Your Consent. We may share information with your consent.
+
 4. LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION
 Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
 
