@@ -1,2 +1,6 @@
 下载链接https://cdn.shopify.com/s/files/1/0073/3813/1519/files/WATransChat.ipa
 下载后使用TrollStore巨魔商店进行安装，TrollStore巨魔商店怎么安装请参考https://trollstore.org/
+如果你的系统太高无法安装TrollStore巨魔商店，你可以在淘宝购买自签证书进行安装。
+推荐这家店铺https://item.taobao.com/item.htm?id=883017640945，也是用户推荐的，说使用很久都不掉。
+
+注意扫码登陆时，会提示请同时保持在两台设备上运行WhatsApp，那么你需要先在另一台设备登陆原装WhatsApp,这样扫码才不会提醒。
