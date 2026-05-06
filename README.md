@@ -1,5 +1,12 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
 [![中文](https://img.shields.io/badge/lang-中文-red.svg)](README.zh-CN.md)
+## 此项目已经暂停更新，新访问我们官网获取最新版本软件。
+
+### 官网访问
+
+在浏览器中打开以下地址即可访问官网（可直接点击）：
+
+- [https://zla5.github.io](https://zla5.github.io)
 
 # WATransChat
 
